@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BTH2/BTH2.vcxproj" Id="5f38a0a0-3b9e-4aa2-8310-1f8f53b23152" />
+</Solution>
